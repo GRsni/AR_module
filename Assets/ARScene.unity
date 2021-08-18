@@ -3336,7 +3336,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fbe40e75f6128745ab5254ef81ca3eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  direction: {x: 0, y: 0, z: 1}
+  direction: {x: 0, y: 1, z: 0}
   speed: 5
   Height: 0.001
 --- !u!1 &1350294272
@@ -3495,7 +3495,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fbe40e75f6128745ab5254ef81ca3eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  direction: {x: 0, y: 1, z: 0}
+  direction: {x: 0, y: 0, z: 1}
   speed: 5
   Height: 0.0015
 --- !u!4 &1370639141 stripped
