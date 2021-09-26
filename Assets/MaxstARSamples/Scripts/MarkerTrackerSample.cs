@@ -50,7 +50,7 @@ public class MarkerTrackerSample : ARBehaviour {
 				// Do something here. For example resize gui to fit ratio
 			}
 		}
-		TrackerManager.GetInstance ().SetTrackingOption (TrackerManager.TrackingOption.JITTER_REDUCTION_ACTIVATION);
+		TrackerManager.GetInstance ().SetTrackingOption (TrackerManager.TrackingOption.ENHANCED_MODE);
 	}
 
 	private void AddTrackerData () {
